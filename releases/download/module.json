@@ -1,0 +1,95 @@
+{   
+   "name": "DnD-4e-Gladstone",   
+   "title": "DnD-4e-Gladstone",   
+   "description": "DnD-4e-Gladstone compendium-sharing module.",   
+   "author": "me",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.5",
+   "compatibleCoreVersion": "3.0.0",
+   "packs": [
+    {
+      "name": "scenes",
+      "label": "Shared Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "DnD-4e-Gladstone"
+    },
+    {
+      "name": "actors",
+      "label": "Shared Actors",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "DnD-4e-Gladstone"
+    },
+  {
+      "name": "4e-Monsters",
+      "label": "4e-Monsters",
+      "path": "packs/4e-Monsters.db",
+      "entity": "Actor",
+      "module": "DnD-4e-Gladstone"
+    },
+    {
+      "name": "4e-Feats",
+      "label": "4e-Feats",
+      "path": "packs/4e-Feats.db",
+      "entity": "Item",
+      "module": "DnD-4e-Gladstone"
+    },
+  {
+      "name": "4e-Monster-Powers",
+      "label": "4e-Monster-Powers",
+      "path": "packs/4e-Monster-Powers.db",
+      "entity": "Item",
+      "module": "DnD-4e-Gladstone"
+    },
+  {
+      "name": "4e-Class-Powers",
+      "label": "4e-Class-Powers",
+      "path": "packs/4e-Class-Powers.db",
+      "entity": "Item",
+      "module": "DnD-4e-Gladstone"
+    },
+  {
+      "name": "4e-Race-Powers",
+      "label": "4e-Race-Powers",
+      "path": "packs/4e-Race-Powers.db",
+      "entity": "Item",
+      "module": "DnD-4e-Gladstone"
+    },
+  {
+      "name": "4e-Items",
+      "label": "4e-Items",
+      "path": "packs/4e-Items.db",
+      "entity": "Item",
+      "module": "DnD-4e-Gladstone"
+    },
+    {
+      "name": "journalentries",
+      "label": "Shared Journal Entries",
+      "path": "packs/journalentries.db",
+      "entity": "JournalEntry",
+      "module": "DnD-4e-Gladstone"
+    },
+    {
+      "name": "rolltables",
+      "label": "Shared Roll Tables",
+      "path": "packs/rolltables.db",
+      "entity": "RollTable",
+      "module": "DnD-4e-Gladstone"
+    },
+    {
+      "name": "playlists",
+      "label": "Shared Playlists",
+      "path": "packs/playlists.db",
+      "entity": "Playlist",
+      "module": "DnD-4e-Gladstone"
+    },
+    {
+      "name": "macros",
+      "label": "Shared Macros",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "DnD-4e-Gladstone"
+    }
+  ]
+ }
