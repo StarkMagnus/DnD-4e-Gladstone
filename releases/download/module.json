@@ -57,6 +57,13 @@
       "module": "DnD-4e-Gladstone"
     },
   {
+      "name": "4e-Race-Features",
+      "label": "4e-Race-Features",
+      "path": "packs/4e-Race-Features.db",
+      "entity": "Item",
+      "module": "DnD-4e-Gladstone"
+    },
+  {
       "name": "4e-Items",
       "label": "4e-Items",
       "path": "packs/4e-Items.db",
