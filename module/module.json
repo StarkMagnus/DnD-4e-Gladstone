@@ -100,8 +100,8 @@
     }
   ],
     "socket": true,
-    "manifest": "https://github.com/StarkMagnus/DnD-4e-Gladstone/blob/main/module/module.json",
-    "download": "https://github.com/StarkMagnus/DnD-4e-Gladstone/blob/main/zips/0.1.2/module.zip",
+    "manifest": "https://raw.githubusercontent.com/StarkMagnus/DnD-4e-Gladstone/main/module/module.json",
+    "download": "https://raw.githubusercontent.com/StarkMagnus/DnD-4e-Gladstone/main/zips/0.1.2/module.zip",
     "protected": false,
     "coreTranslation": false
  }
